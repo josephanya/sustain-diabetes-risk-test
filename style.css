@@ -60,6 +60,26 @@ p {
     width: 110px;
 }
 
+.email{
+    text-decoration: underline;
+    color: #476D85;
+}
+
+.email:active{
+    text-decoration: underline;
+    color: #476D85;
+}
+
+.email:visited{
+    text-decoration: underline;
+    color: #476D85;
+}
+
+.email:hover{
+    text-decoration: underline;
+    color: #476D85;
+}
+
 #age{
     display: none;
 }
